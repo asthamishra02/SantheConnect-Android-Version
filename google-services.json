@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938098659122",
+    "project_id": "santheconnect-2796a",
+    "storage_bucket": "santheconnect-2796a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938098659122:android:8100c30f9a18a22107112b",
+        "android_client_info": {
+          "package_name": "com.example.santheconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCumxYpmDZWLWwQEwLvrn0ZZEmdgIk2x-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
