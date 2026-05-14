@@ -47,7 +47,7 @@ SantheConnect bridges this gap using Android + Firebase + Google Maps integratio
 * Sample data insertion tested
 * Backend connection verified successfully
 
-### 4. Google Maps -- not added yet
+### 4. Google Maps -- Integrated
 
 ### 5. Git & GitHub Integration
 
