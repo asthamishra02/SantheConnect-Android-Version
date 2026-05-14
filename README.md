@@ -157,9 +157,3 @@ SantheConnect can evolve into:
 
 ---
 
-# Developer
-
-Astha Mishra
-
-GitHub:
-[https://github.com/asthamishra02](https://github.com/asthamishra02)
